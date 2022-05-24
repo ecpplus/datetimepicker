@@ -1,7 +1,7 @@
 {
   "name": "jquery-datetimepicker",
   "version": "2.5.23",
-  "description": "jQuery Plugin DateTimePicker it is DatePicker and TimePicker in one",
+  "description": "jQuery Plugin DateTimePicker it is DatePicker and TimePicker in one(forked)",
   "main": "build/jquery.datetimepicker.full.min.js",
   "scripts": {
     "test": "karma start --browsers Firefox karma.conf.js --single-run",
