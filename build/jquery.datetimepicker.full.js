@@ -2721,7 +2721,7 @@ var datetimepickerFactory = function ($) {
 		define(['jquery', 'jquery-mousewheel'], factory);
 	} else if (typeof exports === 'object') {
 		// Node/CommonJS style for Browserify
-		module.exports = factory(require('jquery'));;
+		module.exports = factory(jQuery);;
 	} else {
 		// Browser globals
 		factory(jQuery);
